@@ -29,7 +29,7 @@ export default function StartCall() {
               }}
             >
               <Button
-                className={"z-50 flex items-center gap-1.5"}
+                className={"z-100 flex items-center gap-1.5"}
                 onClick={() => {
                   connect()
                     .then(() => {})
