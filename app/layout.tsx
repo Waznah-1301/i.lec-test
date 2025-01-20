@@ -7,7 +7,7 @@ import { cn } from "@/utils";
 
 export const metadata: Metadata = {
   title: "ilec AI",
-  description: "A Next.js starter using Hume AI's Empathic Voice Interface",
+  description: "A Next.js starter using ilec AI's Empathic Voice Interface",
 };
 
 export default function RootLayout({
